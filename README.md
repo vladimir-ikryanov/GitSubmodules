@@ -1,2 +1,2 @@
 # GitSubmodules
-Test project to check how git submodules work
+This is readme of the main project.
